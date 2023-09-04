@@ -1,0 +1,14 @@
+C:\BridgeLabz\C#Projects\LineComparisonProblem\bin\Debug\net6.0\LineComparisonProblem.exe
+C:\BridgeLabz\C#Projects\LineComparisonProblem\bin\Debug\net6.0\LineComparisonProblem.deps.json
+C:\BridgeLabz\C#Projects\LineComparisonProblem\bin\Debug\net6.0\LineComparisonProblem.runtimeconfig.json
+C:\BridgeLabz\C#Projects\LineComparisonProblem\bin\Debug\net6.0\LineComparisonProblem.dll
+C:\BridgeLabz\C#Projects\LineComparisonProblem\bin\Debug\net6.0\LineComparisonProblem.pdb
+C:\BridgeLabz\C#Projects\LineComparisonProblem\obj\Debug\net6.0\LineComparisonProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\BridgeLabz\C#Projects\LineComparisonProblem\obj\Debug\net6.0\LineComparisonProblem.AssemblyInfoInputs.cache
+C:\BridgeLabz\C#Projects\LineComparisonProblem\obj\Debug\net6.0\LineComparisonProblem.AssemblyInfo.cs
+C:\BridgeLabz\C#Projects\LineComparisonProblem\obj\Debug\net6.0\LineComparisonProblem.csproj.CoreCompileInputs.cache
+C:\BridgeLabz\C#Projects\LineComparisonProblem\obj\Debug\net6.0\LineComparisonProblem.dll
+C:\BridgeLabz\C#Projects\LineComparisonProblem\obj\Debug\net6.0\refint\LineComparisonProblem.dll
+C:\BridgeLabz\C#Projects\LineComparisonProblem\obj\Debug\net6.0\LineComparisonProblem.pdb
+C:\BridgeLabz\C#Projects\LineComparisonProblem\obj\Debug\net6.0\LineComparisonProblem.genruntimeconfig.cache
+C:\BridgeLabz\C#Projects\LineComparisonProblem\obj\Debug\net6.0\ref\LineComparisonProblem.dll
